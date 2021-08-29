@@ -1,4 +1,4 @@
-# My profil
+# My profile
 
 Hi I am SavedPics and I am a fairly new java developer, 
 
