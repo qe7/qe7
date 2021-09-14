@@ -1,6 +1,6 @@
 # My profile
 
-Hi I am SavedPics and I am a fairly new java developer, 
+Hi I am SavedPics and I am a fairly new java and lua developer, 
 
 ## Public Projects
     https://github.com/BackF0ur/Roblox-Menu-v1
