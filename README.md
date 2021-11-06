@@ -3,13 +3,14 @@
 Hi I am SavedPics and I am a fairly new java and lua developer, 
 
 ## Public Projects
-    https://github.com/BackF0ur/Roblox-Menu-v1
+    Legend Client (Minecraft beta 1.7.3) - https://discord.gg/NUXc84aP
+    
     
 ## Private Projects
-    None
+    Legend (CSGO cheat)
    
 ## Group Projects
-    Back4 Client
+    Insanity Client (Minecraft forge 1.12.2)
 
 ## Stats
 <p align='center'>
