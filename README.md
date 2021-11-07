@@ -1,4 +1,4 @@
-# My profile
+# My profile <img src="https://komarev.com/ghpvc/?username=qe7&style=flat-square" alt="View Counter"/>
 
 Hi I am SavedPics and I am a fairly new java and lua developer, 
 
@@ -15,6 +15,13 @@ Hi I am SavedPics and I am a fairly new java and lua developer,
 ## Stats
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=qe7&&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=qe7&&show_icons=true&theme=light"/>
   </a>
 </p>
+
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
+  </a>
+</p>
+
