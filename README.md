@@ -18,6 +18,6 @@ Hi I am SavedPics and I am a fairly new java and lua developer,
 </p>
 
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&lang_count=2&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&layout=compact&theme=tokyonight"/>
 </p>
 
