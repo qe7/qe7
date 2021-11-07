@@ -15,13 +15,13 @@ Hi I am SavedPics and I am a fairly new java and lua developer,
 ## Stats
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=qe7&&show_icons=true&theme=light"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=qe7&&show_icons=true&theme=tokyonight"/>
   </a>
 </p>
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&langs_count=5&theme=tokyonight"/>
   </a>
 </p>
 
