@@ -21,7 +21,7 @@ Hi I am SavedPics and I am a fairly new java and lua developer,
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&langs_count=5&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qe7&lang_count=2&theme=tokyonight"/>
   </a>
 </p>
 
