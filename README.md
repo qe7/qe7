@@ -27,7 +27,8 @@ Hi I am SavedPics and I am a fairly new java and lua developer, My goals for the
 </p>
 
 <p align='center'>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&layout=compact&theme=dracula&langs_count=&count_private=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&layout=compact&theme=dracula&langs_count=7&count_private=true" /></a> 
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&layout=compact&theme=dracula&langs_count=&count_private=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&layout=compact&theme=dracula&langs_count=5&count_private=true" /></a> 
 </p>
     
 <p align='center'>
