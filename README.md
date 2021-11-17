@@ -27,6 +27,10 @@ Hi I am SavedPics and I am a fairly new java and lua developer, My goals for the
 </p>
 
 <p align='center'>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&layout=compact&theme=dracula&langs_count=&count_private=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&layout=compact&theme=dracula&langs_count=7&count_private=true" /></a> 
+</p>
+    
+<p align='center'>
     <img src="https://img.shields.io/badge/java-991010?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/c++-991010?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-991010?style=for-the-badge&logo=javascript&logoColor=white">
