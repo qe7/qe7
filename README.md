@@ -17,7 +17,13 @@ Hi I am SavedPics and I am a fairly new java and lua developer, My goals for the
     <img src="https://github-readme-stats.vercel.app/api?username=qe7&&show_icons=true&include_all_commits=true&theme=dracula">
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=qe7&bg_color=3D4849&color=CCCCCC&line=FFFFFF&point=991010">
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&theme=dracula" alt="Shae's github stats" />
+</p>
+
+<p align='center'>
+    <img src="https://activity-graph.herokuapp.com/graph?username=qe7&theme=dracula">
+</p>
 
 <p align='center'>
     <img src="https://img.shields.io/badge/java-991010?style=for-the-badge&logo=java&logoColor=white">
