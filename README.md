@@ -27,7 +27,6 @@ Hi I am SavedPics and I am a fairly new java and lua developer, My goals for the
 
 <p align='center'>
     <img src="https://img.shields.io/badge/java-991010?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/c++-991010?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-991010?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ-991010?style=for-the-badge&logo=intellij-idea&color=991010&logoColor=white"/>
 </p>
