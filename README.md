@@ -22,10 +22,10 @@ Hi I am SavedPics and I am a fairly new java and lua developer, My goals for the
 </p>
 
 <p align='center'>
-    <img src="https://activity-graph.herokuapp.com/graph?username=qe7&theme=dracula">
-</p>
-
-<p align='center'>
     <img src="https://img.shields.io/badge/java-991010?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-991010?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/intellij-991010?style=for-the-badge&logo=intellij&logoColor=white">
+    <img src="https://img.shields.io/badge/eclipse-991010?style=for-the-badge&logo=eclipse&logoColor=white">
+    <img src="https://img.shields.io/badge/cpp-991010?style=for-the-badge&logo=cpp&logoColor=white">
+    <img src="https://img.shields.io/badge/lua-991010?style=for-the-badge&logo=lua&logoColor=white">
 </p>
