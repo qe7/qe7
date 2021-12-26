@@ -1,4 +1,4 @@
-# My profile 
+# My profile :)
 
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=qe7&label=Views&color=991010&style=flat-square" alt="stats" /> <img src="https://img.shields.io/github/followers/qe7?label=follow&style=social" alt="stats" /></a>
