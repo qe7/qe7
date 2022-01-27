@@ -7,6 +7,7 @@
 ## Projects
 
     Weave (1.8.8 Mcp client)
+    Policy (1.12.2 Forge client)
     
 ## Group projects
     
