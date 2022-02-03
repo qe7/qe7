@@ -6,7 +6,7 @@
 
 ## Projects
 
-    Weave (1.8.8 Mcp client)
+    Client (1.8.8 Mcp client)
     Policy (1.12.2 Forge client)
     
 ## Group projects
@@ -17,6 +17,7 @@
 
     Idea+ (1.12.2 Forge client)
     Legend (b1.7.3 Mcp client)
+    Stigma (b1.7.3 Mcp client)
     Insanity.cc (1.12.2 Forge client)
     NutPad++ (1.12.2 meme Forge client)
 
