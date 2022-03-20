@@ -6,12 +6,11 @@
 
 ## Projects
 
-    Felix (1.8.8 Mcp client)
-    Policy (1.12.2 Forge client)
+    None.
     
 ## Group projects
     
-    XannaX (1.12.2 Forge client)
+    None.
 
 ## Past projects
 
@@ -20,6 +19,7 @@
     Stigma (b1.7.3 Mcp client)
     Insanity.cc (1.12.2 Forge client)
     NutPad++ (1.12.2 meme Forge client)
+    Moonlight.uno (1.8.9 mcp Client)
 
 ## Links
 
