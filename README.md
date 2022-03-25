@@ -6,20 +6,20 @@
 
 ## Projects
 
-    None.
+    "Retired" (Latest CSGO Hvh/legit Cheat)
     
 ## Group projects
     
-    None.
+    "Zerg_h4ck" (Legacy (2k18) CSGO Hvh Cheat) 
 
 ## Past projects
 
-    Idea+ (1.12.2 Forge client)
-    Legend (b1.7.3 Mcp client)
-    Stigma (b1.7.3 Mcp client)
-    Insanity.cc (1.12.2 Forge client)
-    NutPad++ (1.12.2 meme Forge client)
-    Moonlight.uno (1.8.9 mcp Client)
+    "Idea+" (1.12.2 Forge client)
+    "Legend" (b1.7.3 Mcp client)
+    "Stigma" (b1.7.3 Mcp client)
+    "Insanity.cc" (1.12.2 Forge client)
+    "NutPad++" (1.12.2 meme Forge client)
+    "Moonlight.uno" (1.8.9 mcp Client)
 
 ## Links
 
