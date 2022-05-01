@@ -30,4 +30,4 @@
 
 [Insanity Ca Preview 2](https://youtu.be/TH8zzsoSIiY)
     
-[My Discord guild](https://discord.gg/mZSjhKQ6e2)
+[My Discord guild](https://discord.gg/7PHGwvbqFk)
