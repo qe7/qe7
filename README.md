@@ -6,12 +6,11 @@
 
 ## Projects
 
-    "Detect" (1.8.9 mcp client)
     "Legend Reborn" (Beta 1.7.3 mcp client)
     
 ## Group projects
     
-    
+    "Detect" (1.8.9 mcp client)
 
 ## Past projects
 
