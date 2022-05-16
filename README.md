@@ -6,6 +6,10 @@
 
 ## Projects
 
+    "Athena" (1.8.9 mcp client)
+    
+## Side projects
+
     "Legend Reborn" (Beta 1.7.3 mcp client)
     "Detect" (1.8.9 mcp client)
 
