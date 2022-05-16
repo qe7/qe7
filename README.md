@@ -25,5 +25,3 @@
 [Insanity Ca Preview 1](https://youtu.be/50eR82r7Q-M)
 
 [Insanity Ca Preview 2](https://youtu.be/TH8zzsoSIiY)
-    
-[My Discord guild](https://discord.gg/7PHGwvbqFk)
