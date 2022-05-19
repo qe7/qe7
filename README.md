@@ -34,4 +34,6 @@
 
 [Insanity Ca Preview 2](https://youtu.be/TH8zzsoSIiY)
   
+[Legend reborn repo](https://github.com/Legend-Client/Legend)
+  
 [Detect repo](https://github.com/qe7/Detect-Client)
