@@ -28,7 +28,7 @@
 
 ## Links
 
-<div align="Left">
+<div align="left">
   
 [Insanity Ca Preview 1](https://youtu.be/50eR82r7Q-M)
 
@@ -38,4 +38,8 @@
   
 [Detect repo](https://github.com/qe7/Detect-Client)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=qe7&show_icons=true&theme=gotham" alt="qe7" />
+<div align="center">
+  
+## Stats
+  
+<img src="https://github-readme-stats.vercel.app/api?username=qe7&show_icons=true&theme=gotham" alt="qe7" />
