@@ -28,6 +28,10 @@
 
 ## Links
 
+<div align="Left">
+  
 [Insanity Ca Preview 1](https://youtu.be/50eR82r7Q-M)
 
 [Insanity Ca Preview 2](https://youtu.be/TH8zzsoSIiY)
+  
+[Detect repo](https://github.com/qe7/Detect-Client)
