@@ -42,4 +42,4 @@
   
 ## Stats
   
-<img src="https://github-readme-stats.vercel.app/api?username=qe7&show_icons=true&theme=gotham" alt="qe7" />
+<img src="https://github-readme-stats.vercel.app/api?username=qe7&show_icons=true&theme=gotham" />
