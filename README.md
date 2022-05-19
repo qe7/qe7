@@ -37,3 +37,5 @@
 [Legend reborn repo](https://github.com/Legend-Client/Legend)
   
 [Detect repo](https://github.com/qe7/Detect-Client)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=qe7&show_icons=true&theme=gotham" alt="qe7" />
