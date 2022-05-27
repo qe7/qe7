@@ -18,18 +18,10 @@
 
 ## Past projects
 
-    "Idea+" (1.12.2 Forge client)
     "Legend" (b1.7.3 Mcp client)
-    "Stigma" (b1.7.3 Mcp client)
     "Insanity.cc" (1.12.2 Forge client)
-    "NutPad++" (1.12.2 meme Forge client)
-    "Moonlight.uno" (1.8.9 mcp Client)
-    "Retired" (Latest CSGO Hvh/legit Cheat)
-    "Zerg_h4ck" (Legacy (2k18) CSGO Hvh Cheat) 
 
 ## Links
-
-<div align="left">
   
 [Insanity Ca Preview 1](https://youtu.be/50eR82r7Q-M)
 
@@ -39,8 +31,6 @@
   
 [Detect repo](https://github.com/qe7/Detect-Client)
 
-<div align="center">
-  
 ## Stats
   
 <img src="https://github-readme-stats.vercel.app/api?username=qe7&show_icons=true&theme=gotham" />
