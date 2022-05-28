@@ -4,7 +4,7 @@
 
   <img src="https://count.getloli.com/get/@qe7?theme=gelbooru" />
   
-  𝖄𝖔𝖚 𝖙𝖍𝖎𝖓𝖐 𝖘𝖍𝖊’𝖘 𝖆𝖉𝖔𝖗𝖆𝖇𝖑𝖊. 𝕾𝖍𝖊 𝖙𝖍𝖎𝖓𝖐𝖘 𝖙𝖍𝖆𝖙 𝖞𝖔𝖚’𝖗𝖊 𝖎𝖓𝖙𝖔𝖑𝖊𝖗𝖆𝖇𝖑𝖊.
+  𝓖𝓵𝓪𝓭 𝔂𝓸𝓾 𝓯𝓸𝓾𝓷𝓭 𝔂𝓸𝓾𝓻 𝔀𝓪𝔂 𝓱𝓮𝓻𝓮
 
 ## Projects
 
