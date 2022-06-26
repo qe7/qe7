@@ -8,7 +8,7 @@
 
 ## Projects
 
-    "Athena" (1.8.9 mcp client)
+    N/a
     
 ## Side projects
 
@@ -20,6 +20,7 @@
 
     "Legend" (b1.7.3 Mcp client)
     "Insanity.cc" (1.12.2 Forge client)
+    "Athena" (1.8.9 mcp client)
 
 ## Links
   
