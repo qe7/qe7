@@ -23,5 +23,7 @@
 -> [Youtube](https://www.youtube.com/c/Shae1337)
 
 ## Stats
+
+<div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=qe7&show_icons=true&theme=dark" />
