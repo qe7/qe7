@@ -8,13 +8,13 @@
 
 -> [ShaeHack](https://github.com/qe7/ShaeHack)
      
+-> [Detect](https://github.com/qe7/Detect-Client)
+
 ## Other
 
 -> [Texture packs](https://github.com/qe7/Texture-packs)
 
 ## Past projects
-
--> [Detect](https://github.com/qe7/Detect-Client)
 
 -> Athena
 
