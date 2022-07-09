@@ -6,9 +6,11 @@
 
 ## Projects
 
--> [ShaeHack](https://github.com/qe7/ShaeHack)
+-> [ShaeHack](https://github.com/qe7/ShaeHack) : Minecraft
      
--> [Detect](https://github.com/qe7/Detect-Client)
+-> [Detect](https://github.com/qe7/Detect-Client) : Minecraft
+
+-> CyberGod : Tf2
 
 ## Other
 
