@@ -6,11 +6,13 @@
 
 ## Projects
 
--> [ShaeHack](https://github.com/qe7/ShaeHack) : Minecraft
+-> [ShaeHack](https://github.com/qe7/ShaeHack) : Minecraft 1.8.9 Mcp cheat
      
--> [Detect](https://github.com/qe7/Detect-Client) : Minecraft
+-> [Detect](https://github.com/qe7/Detect-Client) : Minecraft 1.8.9 Mcp cheat
 
--> CyberGod : Tf2
+-> CyberGod : Tf2 cheat
+
+-> GameCuck-AC : AssaultCube cheat
 
 ## Other
 
@@ -18,7 +20,7 @@
 
 ## Past projects
 
--> Athena
+-> Athena : Minecraft 1.8.9 Mcp cheat
 
 ## Links
 
