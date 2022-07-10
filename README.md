@@ -4,6 +4,11 @@
   
 <div align="left">
 
+## Info
+
+-> Age : 16
+-> Name : Shae
+
 ## Projects
 
 -> [ShaeHack](https://github.com/qe7/ShaeHack) : Minecraft 1.8.9 Mcp cheat
