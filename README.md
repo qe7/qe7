@@ -12,18 +12,6 @@
 
 ## Projects
 
--> [ShaeHack](https://github.com/qe7/ShaeHack) : Minecraft Beta 1.7.3 Mcp cheat
-     
--> [Detect](https://github.com/qe7/Detect-Client) : Minecraft 1.8.9 Mcp cheat
-
--> CyberGod : Tf2 cheat
-
--> GameCuck-AC : AssaultCube cheat
-
-## Other
-
--> [Texture packs](https://github.com/qe7/Texture-packs)
-
 ## Past projects
 
 -> Athena : Minecraft 1.8.9 Mcp cheat
