@@ -6,9 +6,9 @@
 
 ## Info
 
--> Age : 16
-
 -> Name : Shae
+
+-> Age : 16
 
 ## Projects
   
