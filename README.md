@@ -10,6 +10,8 @@
 
 -> Age : 16
 
+-> Info : Honestly just a cunt.
+
 ## Projects
   
 -> Sincerely : Minecraft 1.8.9 Mcp cheat
