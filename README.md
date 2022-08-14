@@ -4,28 +4,27 @@
   
 <div align="left">
 
-## Info
+```python
+from GitHub import ReadMe
 
--> Name : Shae
-
--> Age : 16
-
--> Info : Honestly just a cunt.
-
-## Projects
-  
--> Sincerely : Minecraft 1.8.9 Mcp cheat
-  
-## Past projects
-
--> Athena : Minecraft 1.8.9 Mcp cheat
-
-## Links
-
--> [Youtube](https://www.youtube.com/c/Shae1337)
-
-## Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=qe7&show_icons=true&theme=dark" />
+class ReadMe:
+    def __init__(self, username="</Shae>"):
+        self.skidded = "Yes"
+        self.username = username
+        self.pronouns = "He/Him"
+        self.contacts = {
+            "Discord": "summarised#3001",
+            "Twitter": "Shaet00"
+        }
+        self.alises = [
+            "Shae",
+            "Summarised",
+            "Nemesis",
+            "Nihilist",
+            "Jvne"
+        ]
+        self.location = "Hereford, Herefordshire, England"
+        self.age = "16, Born 13 July 2006"
+        self.occupation = "'''Freelance Software Developer'''"
+        self.languages = ["Python", "Java", "JavaScript", "Lua"]
+```
