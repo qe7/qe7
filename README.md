@@ -4,9 +4,15 @@
   
 <div align="left">
 
----
+## 🌹 Welcome to my profile! 🌹
 
-<div align="center">
+-> Name: Shae<br />
+-> Age: 18<br />
+-> Work Place: N/a<br />
+-> Work Course: N/a<br />
 
-# Welcome to my profile!
+## Languages:
 
+-> Java<br />
+-> Javascript<br />
+-> Lua<br />
