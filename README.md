@@ -14,6 +14,10 @@
 -> Javascript,<br />
 -> Lua
 
+## 🌹 𝓒𝓸𝓷𝓽𝓮𝓬𝓽 𝓶𝓮 @: 🌹
+
+-> Discord: 86JXXqxo1baZH5SL#0001
+
 ## 🌹 𝓢𝓸𝓬𝓲𝓪𝓵𝓼: 🌹
 
 -> [ᴵⁿˢᵗᵃᵍʳᵃᵐ](https://www.instagram.com/86jxxqxo1bazh5sl/), <br />
