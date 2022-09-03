@@ -4,12 +4,19 @@
 
 ## 🌹 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮! 🌹
 
--> Name: Shae<br />
--> Age: 16<br />
--> Occupation: College student<br />
+-> Name: Shae,<br />
+-> Age: 16,<br />
+-> Occupation: College student
 
-## Languages:
+## 🌹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼: 🌹
 
--> Java<br />
--> Javascript<br />
--> Lua<br />
+-> Java,<br />
+-> Javascript,<br />
+-> Lua
+
+## 🌹 𝓢𝓸𝓬𝓲𝓪𝓵𝓼: 🌹
+
+-> [ᴵⁿˢᵗᵃᵍʳᵃᵐ](https://www.instagram.com/86jxxqxo1bazh5sl/), <br />
+-> [ʸᵒᵘᵗᵘᵇᵉ](https://www.youtube.com/c/Shae1337), <br />
+-> [ᵀʷⁱᵗᵗᵉʳ](https://twitter.com/Shaet00), <br />
+-> [ˢᵗᵉᵃᵐ](https://steamcommunity.com/id/summarised)
