@@ -7,7 +7,7 @@
 ## 🌹 Welcome to my profile! 🌹
 
 -> Name: Shae<br />
--> Age: 18<br />
+-> Age: 16<br />
 -> Work Place: N/a<br />
 -> Work Course: N/a<br />
 
