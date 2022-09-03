@@ -6,8 +6,7 @@
 
 -> Name: Shae<br />
 -> Age: 16<br />
--> Work Place: N/a<br />
--> Work Course: N/a<br />
+-> Occupation: College student<br />
 
 ## Languages:
 
