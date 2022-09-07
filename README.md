@@ -17,7 +17,7 @@
 -> Via discord @ 86JXXqxo1baZH5SL#0001,<br />
 -> Via twitter @ Shaet00
 
-## 🌹 𝓢𝓸𝓬𝓲𝓪𝓵𝓼: 🌹
+## 🌹 𝓢𝓸𝓬𝓲𝓪𝓵(𝓼): 🌹
 
 -> [ᴵⁿˢᵗᵃᵍʳᵃᵐ](https://www.instagram.com/86jxxqxo1bazh5sl/), <br />
 -> [ʸᵒᵘᵗᵘᵇᵉ](https://www.youtube.com/c/Shae1337), <br />
