@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://count.getloli.com/get/@qe7?theme=gelbooru" />
+<img src="https://count.getloli.com/get/@qe7?theme=rule34" />
 <div align="left">
 
 ## 🌹 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮! 🌹
