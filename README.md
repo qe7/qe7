@@ -8,13 +8,11 @@
 -> Age: 16,<br />
 -> Occupation: College student
 
-## 🌹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼: 🌹
+## 🌹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮(𝓼): 🌹
 
--> Java,<br />
--> Javascript,<br />
--> Lua
+-> Java<br />
 
-## 🌹 𝓒𝓸𝓷𝓽𝓮𝓬𝓽 𝓶𝓮 @: 🌹
+## 🌹 𝓒𝓸𝓷𝓽𝓮𝓬𝓽 𝓶𝓮: 🌹
 
 -> Via discord @ 86JXXqxo1baZH5SL#0001,<br />
 -> Via twitter @ Shaet00
