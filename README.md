@@ -14,7 +14,7 @@
 
 ## 🌹 𝓒𝓸𝓷𝓽𝓮𝓬𝓽 𝓶𝓮: 🌹
 
--> Via discord @ 86JXXqxo1baZH5SL#0001,<br />
+-> Via discord @ Amphetamine#0001,<br />
 -> Via twitter @ Shaet00
 
 ## 🌹 𝓢𝓸𝓬𝓲𝓪𝓵(𝓼): 🌹
