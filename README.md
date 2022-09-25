@@ -10,7 +10,10 @@
 
 ## 🌹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮(𝓼): 🌹
 
--> Java<br />
+-> Java,<br />
+-> Python,<br />
+-> JavaScript,<br />
+-> Lua,<br />
 
 ## 🌹 𝓒𝓸𝓷𝓽𝓮𝓬𝓽 𝓶𝓮: 🌹
 
