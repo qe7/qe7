@@ -22,7 +22,7 @@
 
 ## 🌹 𝓢𝓸𝓬𝓲𝓪𝓵(𝓼): 🌹
 
--> [ᴵⁿˢᵗᵃᵍʳᵃᵐ](https://www.instagram.com/86jxxqxo1bazh5sl/), <br />
+-> [ᴵⁿˢᵗᵃᵍʳᵃᵐ](https://www.instagram.com/hyperpvnk/), <br />
 -> [ʸᵒᵘᵗᵘᵇᵉ](https://www.youtube.com/c/Shae1337), <br />
 -> [ᵀʷⁱᵗᵗᵉʳ](https://twitter.com/Shaet00), <br />
 -> [ˢᵗᵉᵃᵐ](https://steamcommunity.com/id/summarised)
