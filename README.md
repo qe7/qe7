@@ -21,8 +21,7 @@
 
 ## 🌹 𝓒𝓸𝓷𝓽𝓮𝓬𝓽 𝓶𝓮: 🌹
 
--> Via discord @ nns#5068,<br />
--> Via twitter @ Shaet00
+-> Via discord @ june#1487
 
 ## 🌹 𝓢𝓸𝓬𝓲𝓪𝓵(𝓼): 🌹
 
