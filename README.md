@@ -26,7 +26,6 @@
 
 ## 🌹 𝓢𝓸𝓬𝓲𝓪𝓵(𝓼): 🌹
 
--> [ᴵⁿˢᵗᵃᵍʳᵃᵐ](https://www.instagram.com/hyperpvnk/), <br />
--> [ʸᵒᵘᵗᵘᵇᵉ](https://www.youtube.com/c/Shae1337), <br />
--> [ᵀʷⁱᵗᵗᵉʳ](https://twitter.com/Shaet00), <br />
--> [ˢᵗᵉᵃᵐ](https://steamcommunity.com/id/summarised)
+-> [Youtube](https://www.youtube.com/c/Shae1337), <br />
+-> [Solo](https://solo.to/jvne), <br />
+-> [Steam](https://steamcommunity.com/id/summarised)
