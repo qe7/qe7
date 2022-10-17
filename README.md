@@ -8,7 +8,7 @@
 
 ## 🌹 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮! 🌹
 
--> Name: Shae,<br />
+-> Name: June,<br />
 -> Age: 16,<br />
 -> Occupation: College student
 
