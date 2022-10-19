@@ -2,6 +2,7 @@
 <img src="https://count.getloli.com/get/@qe7?theme=rule34" />
 <div align="left">
 
+
 <p align="center">
 <img height= "230" src="https://lanyard.cnrad.dev/api/951879174094741504" />
 </p>
@@ -11,17 +12,6 @@
 -> Name: June,<br />
 -> Age: 16,<br />
 -> Occupation: College student
-
-## 🌹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮(𝓼): 🌹
-
--> Java,<br />
--> Python,<br />
--> JavaScript,<br />
--> Lua,<br />
-
-## 🌹 𝓒𝓸𝓷𝓽𝓮𝓬𝓽 𝓶𝓮: 🌹
-
--> Via discord @ june#1487
 
 ## 🌹 𝓢𝓸𝓬𝓲𝓪𝓵(𝓼): 🌹
 
