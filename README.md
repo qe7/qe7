@@ -6,14 +6,14 @@
 
 ## 🌹 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮! 🌹
 
--> Name: June,<br />
--> Age: 16,<br />
+-> Name: Shae<br />
+-> Age: 16<br />
 -> Occupation: College student
 
 ## 🌹 𝓢𝓸𝓬𝓲𝓪𝓵(𝓼): 🌹
 
--> [Youtube](https://www.youtube.com/c/Shae1337), <br />
--> [Solo](https://solo.to/jvne), <br />
+-> [Youtube](https://www.youtube.com/c/Shae1337) <br />
+-> [Solo](https://solo.to/jvne) <br />
 -> [Steam](https://steamcommunity.com/id/summarised)
 
 <p align="center">
