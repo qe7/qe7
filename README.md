@@ -1,5 +1,3 @@
-<img src="https://cdnb.artstation.com/p/assets/images/images/023/138/759/original/helena-viana-anime-girl-welcome-by-ell.gif?1578239624" />
-
 <div align="center">
   <img src="https://count.getloli.com/get/@qe7?theme=rule34" />
 <div align="left">
