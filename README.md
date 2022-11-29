@@ -9,12 +9,6 @@
   
 -> Name: Shae<br/>
 -> Age: 16<br/>
--> Occupation: College student
-
-<div align="center">
-  
-## 🌹 𝓢𝓸𝓬𝓲𝓪𝓵(𝓼): 🌹
-<div align="left">
-  
--> [Youtube](https://www.youtube.com/c/Shae1337) <br/>
--> [Steam](https://steamcommunity.com/id/summarised)
+-> Occupation: College student<br/>
+-> [Youtube](https://www.youtube.com/@bednuker)<br/>
+-> [Steam](https://steamcommunity.com/id/summarised)<br/>
