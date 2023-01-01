@@ -22,6 +22,6 @@
 <br/>
   <div align="center">
   
-![Overview](https://github-readme-stats.vercel.app/api?username=qe7&count_private=true&title_color=DAB3E0&text_color=F2E1F4&bg_color=20,181C1B,181C1B,181C1B,181C1B,181C1B)
+![Overview](https://github-readme-stats.vercel.app/api?username=qe7&count_private=true&title_color=DAB3E0&text_color=F2E1F4&bg_color=20,181C1B,181C1B,2C2B30,181C1B)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&&langs_count=5&card_width=500&title_color=DAB3E0&text_color=F2E1F4&bg_color=20,181C1B,181C1B,181C1B,181C1B,181C1B)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qe7&&langs_count=5&card_width=500&title_color=DAB3E0&text_color=F2E1F4&bg_color=20,181C1B,181C1B,2C2B30,181C1B)
