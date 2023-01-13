@@ -17,7 +17,7 @@
 ### ***Contact Info:***
 -> ***Steam:*** [steam](https://steamcommunity.com/id/onesies)<br/>
 -> ***Email:*** shae@overdose.today<br/>
--> ***Discord:*** Shae#0069
+-> ***Discord:*** Shae#0544
   
 <br/>
   <div align="center">
