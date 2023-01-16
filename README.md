@@ -8,8 +8,6 @@
 # ***Welcome***
 <div align="left">
   
-<br/>
-  
 ### ***Random Info:***
 -> ***Name:*** Shae<br/>
 -> ***Age:*** 16<br/>
@@ -18,8 +16,3 @@
 -> ***Steam:*** [steam](https://steamcommunity.com/id/onesies)<br/>
 -> ***Email:*** shae@overdose.today<br/>
 -> ***Discord:*** Shae#0544
-  
-<br/>
-  <div align="center">
-  
-![Overview](https://github-readme-stats.vercel.app/api?username=qe7&count_private=true&title_color=DAB3E0&text_color=F2E1F4&bg_color=20,181C1B,181C1B,2C2B30,181C1B)
