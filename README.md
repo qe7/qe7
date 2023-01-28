@@ -11,8 +11,8 @@
 ### ***Random Info:***
 -> ***Name:*** Shae<br/>
 -> ***Age:*** 16<br/>
--> ***Occupation:*** College student<br/><br/>
+-> ***Occupation:*** N/a<br/>
 ### ***Contact Info:***
 -> ***Steam:*** [steam](https://steamcommunity.com/id/onesies)<br/>
 -> ***Email:*** shae@overdose.today<br/>
--> ***Discord:*** Shae#0544
+-> ***Discord:*** shae#2416<br/>
