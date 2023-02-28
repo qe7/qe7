@@ -1,6 +1,7 @@
 <div align="center">
   
   <img src="https://count.getloli.com/get/@qe7?theme=rule34" />
-<div align="left">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Qe7&theme=dark)](https://git.io/streak-stats)
 
-  BrettHack my beloved 
+<div align="left">
