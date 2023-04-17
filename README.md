@@ -2,20 +2,20 @@
 <img src="https://count.getloli.com/get/@qe7?theme=asoul" />
 <div align="left">
   
-# Welcome!
+### Welcome!
 
-## Contacts
+#### Contacts
 
 * Discord: shae#2149
 * Revolt: sis
 
-## External Links
+#### External Links
 
 * [Website](https://cyberhack.cc/)
 * [YouTube](https://www.youtube.com/@Precipitant)
 * [Main Steam](https://steamcommunity.com/id/precipitant/)
   
-## Notes
+#### Notes
   
 > **Note**
 > 15/03/2023 </br>
