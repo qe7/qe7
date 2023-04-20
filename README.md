@@ -6,7 +6,7 @@
 
 #### Contacts
 
-* Discord: 7ny50v14#2149
+* Discord: shae#2149
 * Revolt: sis
 
 #### External Links
