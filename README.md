@@ -6,14 +6,13 @@
 
 #### Contacts
 
-* Discord: shae#2149
+* Discord: Xueren#2149
 * Revolt: sis
 
 #### External Links
 
-* [Website](https://cyberhack.cc/)
-* [YouTube](https://www.youtube.com/@Precipitant)
 * [Main Steam](https://steamcommunity.com/id/precipitant/)
+* [YouTube](https://www.youtube.com/@Precipitant)
   
 #### Notes
   
