@@ -17,5 +17,9 @@
 #### Notes
   
 > **Note**
+> 29/04/2023 </br>
+> [DozerHack](https://github.com/DozerHack) [beta 1.7.3](https://github.com/DozerHack/Client-beta1.7.3) now private! again.. Yay?
+  
+> **Note**
 > 15/03/2023 </br>
 > [DozerHack](https://github.com/DozerHack) [beta 1.7.3](https://github.com/DozerHack/Client-beta1.7.3) now public! Yay!
