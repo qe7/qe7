@@ -6,7 +6,7 @@
 
 #### Contacts
 
-* Discord: Xueren#2149
+* Discord: Shae#9034
 * Revolt: sis
 
 #### External Links
