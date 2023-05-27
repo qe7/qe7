@@ -6,7 +6,7 @@
 
 #### Contacts
 
-* Discord: Shae#9034
+* Discord: sloane#0001
 * Revolt: sis
 
 #### External Links
