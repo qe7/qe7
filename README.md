@@ -1,12 +1,17 @@
-# Hello?
+### Hello?
 
-*why are you here..*
+*why are you.. why are you calling so late?*
 
 <p align="center">
   <img src="https://count.getloli.com/get/@qe7?theme=rule34"/>
 </p>
 
-###### *me love hentai! >w<*
+<p align="center">
+  "Five foot three, but she's so feisty."
+</p>
 
-Discord: *spedcore* </br>
-Steam: [profiles/76561199019064560](https://steamcommunity.com/profiles/76561199019064560/)
+##### Currently working on: 
+- *Winter+ with [Brett2x](https://github.com/Brett2x) and [MaterBater](https://github.com/MaterBater)*
+
+##### My other contacts:
+- *Discord: spedcore*
