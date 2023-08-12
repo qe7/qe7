@@ -10,3 +10,7 @@
 
 Discord: *spedcore* </br>
 Steam: [profiles/76561199019064560](https://steamcommunity.com/profiles/76561199019064560/)
+
+<p align="center">
+  <imgsrc="https://komarev.com/ghpvc/?username=qe7"/>
+</p>
