@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  "Five foot three, but she's so feisty."
+  "No one ever saw me cry, Until I left the party the other night."
 </p>
