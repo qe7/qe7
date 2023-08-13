@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qe7&" alt="qe7" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=qe7&theme=rose-pine&hide_border=true&border_radius=0&type=png&background=45%2CEBB2DE29%2CEB545400&hide_longest_streak=true" alt="qe7" />
 </p>
