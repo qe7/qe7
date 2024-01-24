@@ -9,7 +9,10 @@ I'm not a prolific coder; in fact, well, I barely code anymore. However, if you'
 
 ## Projects
 
-If prefixed with "[A]," the project is in an archived state.
+Projects I took somewhat seriously.
+
+> [!Note]
+> If prefixed with "[A]," the project is in an archived state.
 
 - [A] [Python-Encrypt-Script](https://github.com/qe7/Python-Encrypt-Script)
 - [A] [Python-Request-Script](https://github.com/qe7/Python-Request-Script)
