@@ -9,7 +9,7 @@ I'm not a prolific coder; in fact, well, I barely code anymore. However, if you'
 
 ## Projects
 
-Projects I took somewhat seriously.
+Projects I took somewhat seriously. Many of my projects have been deleted over the years, so this list will be short for a while.
 
 > [!Note]
 > If prefixed with "[A]," the project is in an archived state.
