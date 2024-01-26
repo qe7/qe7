@@ -16,8 +16,9 @@ Projects I took somewhat seriously. Many of my projects have been deleted over t
 > [!Note]
 > If prefixed with "[A]," the project is in an archived state.
 
-- [A] [Python-Encrypt-Script](https://github.com/qe7/Python-Encrypt-Script)
-- [A] [Python-Request-Script](https://github.com/qe7/Python-Request-Script)
+- [Lmaobox-DT-Info-Script](https://github.com/qe7/Lmaobox-DT-Info-Script)
+- [Python-Encrypt-Script](https://github.com/qe7/Python-Encrypt-Script)
+- [Python-Request-Script](https://github.com/qe7/Python-Request-Script)
 
 ## Skills
 
