@@ -3,7 +3,7 @@
 # Welcome
 
 > [!Note]
-> Last edited: 24/01/24
+> Last edited: 10/02/24
 
 ## About Me
 
@@ -16,6 +16,7 @@ Projects I took somewhat seriously. Many of my projects have been deleted over t
 > [!Note]
 > If prefixed with "[A]," the project is in an archived state.
 
+- [Notorious-Base](https://github.com/qe7/notorious-base)
 - [Archeda-ac_client-Script](https://github.com/qe7/Archeda-ac_client-Script)
 - [Lmaobox-DT-Info-Script](https://github.com/qe7/Lmaobox-DT-Info-Script)
 - [Python-Encrypt-Script](https://github.com/qe7/Python-Encrypt-Script)
