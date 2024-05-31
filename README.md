@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/qe7/qe7/main/channels4_banner.jpg)
+![banner](https://raw.githubusercontent.com/qe7/qe7/main/banner.jpg)
 
 ## License
 
