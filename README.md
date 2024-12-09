@@ -6,6 +6,10 @@
   I'm going to blow up like the world trade!
 </p>
 
+<p align="center">
+  <img src="https://count.getloli.com/get/@qe7?theme=booru-lewd" />
+</p>
+
 <br>
 
 <h2 align="center">
