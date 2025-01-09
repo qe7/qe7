@@ -26,3 +26,5 @@
 
 - projects that keep it simple... I still dont know how to code  
 - ideas that aren't practical and are completely shit  
+
+<img align="center" src="https://streak-stats.demolab.com/?user=qe7"/> 
