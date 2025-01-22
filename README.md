@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I'm going to blow up like the world trade!
+  I honestly don't know what to put here, I think I might just start randomly generating shit with chat-gtp.
 </p>
 
 <p align="center">
