@@ -4,13 +4,3 @@
     <img src="https://count.getloli.com/get/@qe7?theme=gelbooru" />
   </p>
 </div>
-
-If I’ve been inactive or slow to update things, it’s not intentional.
-
-My account has been getting hit with false suspensions from GitHub’s automated systems, which has locked me out multiple times. Because of that, I haven’t always had access when I normally would.
-
-I’m in contact with support trying to get it fully sorted so it stops happening.
-
-Things should go back to normal once this is resolved. Thanks for sticking around.
-
-Shae (qe7)
